@@ -1,5 +1,4 @@
-# Notes-App-Back-End
+# Notes_App_Backend
 Notes app backend programmed with JavaScript Language
 
-Program created by:
-1. Muhammad Rafi Andeo Praja (Telkom University)
+Basic Backend Engineer Project
